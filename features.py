@@ -17,3 +17,9 @@ def divisao (a, b):
     d = a / b
     print(f"A divisão é {d}")
     return d
+
+def multiplicacao(a, b):
+    m = a * b
+    print(f"A multiplicação é {m}")
+    return m
+
