@@ -12,3 +12,8 @@ def soma (a,b):
     s=a+b
     print(f"A soma é {s}")
     return s
+
+def divisao (a, b):
+    d = a / b
+    print(f"A divisão é {d}")
+    return d
